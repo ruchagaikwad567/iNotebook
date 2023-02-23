@@ -1,5 +1,5 @@
 const mongoose = require('mongoose');
-const mongoURI="mongodb://localhost:27017/?directConnection=true&tls=false&readPreference=primary"
+const mongoURI="mongodb://localhost:27017/inotebookdb?directConnection=true&tls=false&readPreference=primary"
 
 
 //this is used to connect to database
